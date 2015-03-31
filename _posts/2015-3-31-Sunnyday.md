@@ -3,6 +3,8 @@ layout: post
 category : Articles
 tagline: "And there was Sun!"
 tags : [intro, articles]
+comments: true
+share: true
 ---
 
 ## Its sunny today!
