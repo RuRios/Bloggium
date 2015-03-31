@@ -1,15 +1,13 @@
 ---
 layout: post
 category : Articles
-tagline: "Welcome to the new world!"
+tagline: "And there was Sun!"
 tags : [intro, articles]
 ---
 
-## This is a sample article
+## Its sunny today!
 
-Just writing some samply stuff to go with the sample article.
-
-### Lorem ipsum 
+Good to see the sun out after getting lots of rain in the morning! :)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
