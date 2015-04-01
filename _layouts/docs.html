@@ -1,0 +1,37 @@
+---
+sectionid: docs
+layout: twocolumns
+---
+
+{% include docs_toc.html %}
+
+<div class="doc">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <a class="edit-page-link" href="{{ site.github_projecturl }}{{ page.relative_path }}" target="_blank">Edit on GitHub</a>
+  </header>
+
+  <article class="post-content">
+    
+    <p>{{ page.description }}</p>
+
+    {{ content }}
+
+    <div class="docs-prevnext">
+      {% if page.prev %}
+        <a href="/docs/{{ page.prev }}">&larr; Prev</a>
+      {% endif %}
+      {% if page.next %}
+        <a class="right" href="/docs/{{ page.next }}">Next &rarr;</a>
+      {% endif %}
+    </div>
+
+    <a id="_"></a>
+
+
+
+    {{ content }}
+  </article>
+
+</div>
