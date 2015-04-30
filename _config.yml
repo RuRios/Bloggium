@@ -12,9 +12,9 @@ github_username:  rub3jr
 github_projecturl:  "https://github.com/rub3jr/bloggium/tree/gh-pages/"
 
 # Build settings
-#markdown: kramdown
+markdown: kramdown
 # Use the redcarpet Markdown renderer 
-markdown: redcarpet 
+#markdown: redcarpet 
 
 
 #if you wish to integrate disqus on pages set your shortname here 
