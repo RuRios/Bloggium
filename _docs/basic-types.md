@@ -17,7 +17,7 @@ var isDone: boolean = false;
 ###Number
 As in JavaScript, all numbers in TypeScript are floating point values. These floating point numbers get the type 'number'.
 
-{% highlight typescript %}
+{% highlight javascript %}
 var height: number = 6;
 {% endhighlight %}
 
