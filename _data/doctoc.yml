@@ -4,6 +4,4 @@
   - layout
 - title: Reference
   items:
-  - top-level-api
-  - Top-Level API
-  - Component API
+  - basic-types
