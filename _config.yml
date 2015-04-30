@@ -12,8 +12,32 @@ github_username:  rub3jr
 github_projecturl:  "https://github.com/rub3jr/bloggium/tree/gh-pages/"
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+# Use the redcarpet Markdown renderer 
+markdown: redcarpet 
+redcarpet: 
+  extensions: [ 
+    'no_intra_emphasis', 
+    'fenced_code_blocks', 
+    'autolink', 
+    'strikethrough', 
+    'superscript', 
+    'with_toc_data', 
+    'tables', 
+    'hardwrap' 
+  ] 
+
+
+if you wish to integrate disqus on pages set your shortname here 
+disqus_shortname: '' 
+
+ 
+# if you use google analytics, add your tracking id here 
+google_analytics_id: '' 
+
 
 collections:
   docs:
     output: true
+
+
