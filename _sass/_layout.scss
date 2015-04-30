@@ -248,6 +248,7 @@ nav.toc {
     line-height: 18px;
     margin-bottom: 20px;
     float: left;
+ 	position:fixed;/* for good browsers */
 }
 
 nav.toc h3 {
