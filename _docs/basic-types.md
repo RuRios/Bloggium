@@ -9,7 +9,7 @@ For programs to be useful, we need to be able to work with some of the simplest 
 ###Boolean
 The most basic datatype is the simple true/false value, which JavaScript and TypeScript (as well as other languages) call a 'boolean' value.
 
-{% highlight js %}
+{% highlight javascript %}
 var isDone: boolean = false;
 {% endhighlight %}
 
@@ -17,6 +17,6 @@ var isDone: boolean = false;
 ###Number
 As in JavaScript, all numbers in TypeScript are floating point values. These floating point numbers get the type 'number'.
 
-{% highlight js %}
+{% highlight typescript %}
 var height: number = 6;
 {% endhighlight %}
