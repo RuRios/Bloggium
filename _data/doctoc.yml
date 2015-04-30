@@ -2,3 +2,7 @@
   items:
   - overview
   - layout
+- title: Reference
+  items:
+  - Top-Level API
+  - Component API
