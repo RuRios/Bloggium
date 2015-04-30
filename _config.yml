@@ -28,7 +28,7 @@ redcarpet:
   ] 
 
 
-if you wish to integrate disqus on pages set your shortname here 
+#if you wish to integrate disqus on pages set your shortname here 
 disqus_shortname: '' 
 
  
