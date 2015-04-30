@@ -1,5 +1,5 @@
 ---
-title:Modules
+title: Modules
 layout: docs
 permalink: /docs/modules.html
 ---
