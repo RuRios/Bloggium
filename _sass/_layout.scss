@@ -5,9 +5,10 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    background-color: #F0F0F0;
+    width: 100%;
+    z-index: 9999;
 }
 
 .site-title {
@@ -242,13 +243,15 @@
      float: right;
      position: relative;
      max-width: 700px;
+     top: 50px;
 } 
 nav.toc {
     font-size: 14px;
     line-height: 18px;
     margin-bottom: 20px;
     float: left;
- 	position:fixed;/* for good browsers */
+ 	position:fixed;
+ 	top: 95px;
 }
 
 nav.toc h3 {
