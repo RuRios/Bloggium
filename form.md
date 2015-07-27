@@ -14,7 +14,7 @@ permalink: /form/
 
 <script>
 
-var contactForm = contactSection.querySelector('form'),
+var contactForm = document.querySelector('form'),
     inputName = contactForm.querySelector('[name="name"]'),
     inputEmail = contactForm.querySelector('[name="email"]'),
     textAreaMessage = contactForm.querySelector('[name="message2"]'),
