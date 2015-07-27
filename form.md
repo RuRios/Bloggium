@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+permalink: /form/
+---
+
 <div class="container">
     <div class="col-1-2">
       <h1 style="font-weight: 900;">Functional HTML forms</h1>
