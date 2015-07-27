@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/Bloggium" # the subpath of your site, e.g. /blog/
-url: "http://rub3jr.github.io/bloggium" # the base hostname & protocol for your site
+url: "http://rurios.github.io/bloggium" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
 github_projecturl:  "https://github.com/rurios/bloggium/tree/gh-pages/"
