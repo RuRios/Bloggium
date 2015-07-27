@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "/bloggium" # the subpath of your site, e.g. /blog/
 url: "http://rurios.github.io/bloggium" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  
+twitter_username: ""
+github_username:  ""
 github_projecturl:  "https://github.com/rurios/bloggium/tree/gh-pages/"
 
 # Build settings
